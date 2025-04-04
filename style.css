@@ -1,0 +1,28 @@
+.container{
+    display: block;
+    margin:auto;
+    justify-items: center;
+    
+}
+
+.heading{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(162, 6, 77);
+    background-color: rgb(241, 213, 228);
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.thead{
+    background-color: rgb(239, 213, 229);
+}
+
+tbody{
+    background-color: rgb(221, 144, 171);
+}
+.table{
+    width: 600px;
+    border-collapse: collapse;
+    margin-top: 10px;
+
+}
